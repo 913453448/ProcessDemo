@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProcessView">
+        <!--滑动圆点的半径-->
+        <attr name="thumb_radius" format="dimension"/>
+        <!--到达的颜色-->
+        <attr name="color_reached" format="color"/>
+        <!--未到达的颜色-->
+        <attr name="color_unreached" format="color"/>
+        <!--textsize的大小-->
+        <attr name="textsize" format="dimension"/>
+        <!--text的颜色-->
+        <attr name="text_color" format="color"/>
+        <!--线的宽度-->
+        <attr name="line_width" format="dimension"/>
+        <!--状态文字数组-->
+        <attr name="texts" format="reference"/>
+    </declare-styleable>
+</resources>

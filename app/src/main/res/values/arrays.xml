@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="process_states">
+        <item>订单已提交</item>
+        <item>已付款</item>
+        <item>商家已接单</item>
+        <item>已送达</item>
+    </array>
+</resources>
