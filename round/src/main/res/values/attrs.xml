@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundView">
+        <!--背景颜色-->
+        <attr name="backgroundColor" format="color"></attr>
+        <!--圆角的半径-->
+        <attr name="conerRadius" format="dimension"></attr>
+        <!--z轴的偏移量，（阴影的大小）-->
+        <attr name="shadowSize" format="dimension"></attr>
+        <!--阴影的起始颜色-->
+        <attr name="shadowStartColor" format="color"></attr>
+        <!--阴影的结束颜色-->
+        <attr name="shadowEndColor" format="color"></attr>
+    </declare-styleable>
+</resources>
